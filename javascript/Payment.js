@@ -4,6 +4,5 @@ class Payment {
         this.name.name = name
         this.mail = mail
         this.password = password
-      
     }
 }
