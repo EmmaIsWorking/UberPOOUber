@@ -6,6 +6,8 @@ class Main {
         uberX.printDataCar();
         // Car car2 = new Car("HJK34", new Account("Edoardo Llanas", "LKHJA451SD90"));
         // System.out.println("Nombre: " + car.driver.name + "Licencia de manejo" + car2.license);
-
+        UberVan ubervan = new UberVan("LJASD98", new Account("Lisa Brandau", "183098JLKAD"));
+        ubervan.setPassenger(6);
+        ubervan.printDataCar();
     }
 }
