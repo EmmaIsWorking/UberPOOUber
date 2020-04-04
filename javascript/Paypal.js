@@ -1,6 +1,6 @@
 class Paypal extends Payment {
 
     constructor() {
-        super()
+        super(name, mail, this.password)
     }
 }

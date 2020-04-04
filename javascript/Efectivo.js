@@ -1,6 +1,6 @@
 class Efectivo extends Payment{
 
     constructor(){
-        super()
+        super(name, mail, password)
     }
 }
