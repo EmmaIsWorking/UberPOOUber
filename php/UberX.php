@@ -11,3 +11,4 @@ class UberX extends Car{
         $this->model = $model;
     }
 }
+?>

@@ -12,3 +12,4 @@ class UberBlack extends Car
         $this->seatsMaterial = $seatsMaterial;
     }
 }
+?>

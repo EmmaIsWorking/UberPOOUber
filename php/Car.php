@@ -1,5 +1,5 @@
 <?php 
-require_once("Account.php");
+require_once("account.php");
 
 class Car {
     public $id;
@@ -18,3 +18,4 @@ class Car {
     }
 }
 
+?>
