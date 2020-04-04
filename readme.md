@@ -3,6 +3,10 @@
 ## Descripción
 Proyecto que se realizo en el curso de programación orientada a objetos de Platzi que imparte [Anahi Salgado](https://twitter.com/anncode)
 
+## Diagrama UML del modelado de la aplicación
+
+Lo puedes encontrar en este [link]( https://drive.google.com/file/d/1RDRc6Dy2iTcj53u9h17Ss5omFsQ16KVn/view?usp=sharing) 
+
 ## Lenguajes utilizados
 
   - Java
