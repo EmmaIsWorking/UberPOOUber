@@ -4,6 +4,9 @@ require_once("uberX.php");
 require_once("uberPool.php");
 require_once("uberBlack.php");
 require_once("account.php");
+require_once("tarjeta.php");
+require_once("efectivo.php");
+require_once("paypal.php");
 
 echo "Ejercicio PHP #3\n";
 
