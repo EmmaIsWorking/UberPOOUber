@@ -2,7 +2,7 @@
 require_once("Account.php");
 
 class Car {
-    private $id;
+    public $id;
     public $license;
     public $driver;
     public $passenger;
